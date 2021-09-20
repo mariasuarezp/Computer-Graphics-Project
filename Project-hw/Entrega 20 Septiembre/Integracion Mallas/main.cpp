@@ -41,6 +41,9 @@ public:
          Modelo3D[1]->DibujarMalla(5, 0, 0);
          Modelo3D[2]->DibujarMalla(-5, 0, 0);
          Modelo3D[3]->DibujarMalla(0, 5, 0);
+         Modelo3D[4]->DibujarMalla(0, -5, 0);
+         Modelo3D[5]->DibujarMalla(5, 5, 0);
+         Modelo3D[6]->DibujarMalla(-5, 5, 0);
 
 
       if (shader) shader->end();
@@ -85,6 +88,15 @@ public:
 
       Modelo3D[3] = new Objeto3D();
       Modelo3D[3]->AbrirMalla("./Mallas/STLamp.obj");
+
+      Modelo3D[4] = new Objeto3D();
+      Modelo3D[4]->AbrirMalla("./Mallas/street_lighr.obj");
+
+      Modelo3D[5] = new Objeto3D();
+      Modelo3D[5]->AbrirMalla("./Mallas/big_ben_new.obj");
+
+      Modelo3D[6] = new Objeto3D();
+      Modelo3D[6]->AbrirMalla("./Mallas/Bench.obj");
 
       DemoLight();
 
