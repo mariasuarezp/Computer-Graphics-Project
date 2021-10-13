@@ -1,0 +1,29 @@
+﻿cl : command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  main.cpp
+C:\Users\maria\Documents\main\Computación gráfica\OpenGL\Entrega Tribu\main.cpp(47,16): warning C4101: 'h': unreferenced local variable
+C:\Users\maria\Documents\main\Computación gráfica\OpenGL\Entrega Tribu\main.cpp(47,13): warning C4101: 'w': unreferenced local variable
+C:\Users\maria\Documents\main\Computación gráfica\OpenGL\Entrega Tribu\main.cpp(80,1): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\maria\Documents\main\Computación gráfica\OpenGL\Entrega Tribu\main.cpp(82,1): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\maria\Documents\main\Computación gráfica\OpenGL\Entrega Tribu\main.cpp(84,1): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\maria\Documents\main\Computación gráfica\OpenGL\Entrega Tribu\main.cpp(86,1): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\maria\Documents\main\Computación gráfica\OpenGL\Entrega Tribu\main.cpp(88,1): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\maria\Documents\main\Computación gráfica\OpenGL\Entrega Tribu\main.cpp(90,1): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\maria\Documents\main\Computación gráfica\OpenGL\Entrega Tribu\main.cpp(96,1): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\maria\Documents\main\Computación gráfica\OpenGL\Entrega Tribu\main.cpp(98,1): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\maria\Documents\main\Computación gráfica\OpenGL\Entrega Tribu\main.cpp(100,1): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\maria\Documents\main\Computación gráfica\OpenGL\Entrega Tribu\main.cpp(102,1): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\maria\Documents\main\Computación gráfica\OpenGL\Entrega Tribu\main.cpp(104,1): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\maria\Documents\main\Computación gráfica\OpenGL\Entrega Tribu\main.cpp(106,1): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\maria\Documents\main\Computación gráfica\OpenGL\Entrega Tribu\main.cpp(124,1): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\maria\Documents\main\Computación gráfica\OpenGL\Entrega Tribu\main.cpp(137,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\maria\Documents\main\Computación gráfica\OpenGL\Entrega Tribu\main.cpp(163,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\maria\Documents\main\Computación gráfica\OpenGL\Entrega Tribu\main.cpp(164,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\maria\Documents\main\Computación gráfica\OpenGL\Entrega Tribu\main.cpp(165,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\maria\Documents\main\Computación gráfica\OpenGL\Entrega Tribu\main.cpp(166,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\maria\Documents\main\Computación gráfica\OpenGL\Entrega Tribu\main.cpp(167,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\maria\Documents\main\Computación gráfica\OpenGL\Entrega Tribu\main.cpp(168,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\maria\Documents\main\Computación gráfica\OpenGL\Entrega Tribu\main.cpp(169,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\maria\Documents\main\Computación gráfica\OpenGL\Entrega Tribu\main.cpp(170,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\maria\Documents\main\Computación gráfica\OpenGL\Entrega Tribu\main.cpp(241,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\maria\Documents\main\Computación gráfica\OpenGL\Entrega Tribu\main.cpp(276,1): warning C4305: 'argument': truncation from 'double' to 'float'
+  TemplateProject.vcxproj -> C:\Users\maria\Documents\main\Computación gráfica\OpenGL\Entrega Tribu\Debug\TemplateProject.exe

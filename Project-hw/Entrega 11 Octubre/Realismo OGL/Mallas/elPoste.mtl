@@ -1,0 +1,24 @@
+# Blender MTL File: 'None'
+# Material Count: 2
+
+newmtl pasted__blinn1SG
+Ns 127.999985
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.410000 0.410000 0.410000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd ChippedMetal.tga
+
+newmtl pasted__blinn2SG
+Ns 127.999985
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.130000 0.130000 0.130000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd Glass.tga
